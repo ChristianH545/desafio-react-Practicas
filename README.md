@@ -41,4 +41,4 @@ You don't have to ever use `eject`. The curated feature set is suitable for smal
 
 ## Learn More
 
-son practicas realizada en el consumo de API con rect en este caso en especifico `The Rick and Morty` donde despliego una presentacion, luego un detalle y por ultimo los capitulos donde se presento dicho personaje.
+son practicas realizada en el consumo de API con React en este caso en especifico `The Rick and Morty` donde despliego una presentacion, luego un detalle y por ultimo los capitulos donde se presento dicho personaje.
